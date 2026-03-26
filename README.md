@@ -7,5 +7,5 @@ Organizei o fluxo de trabalho em três etapas para manter a integridade dos dado
 
 O que os dados revelaram:
 O ponto mais interessante da análise foi o mês de Junho. Ao cruzar as médias, percebi que ele foi o "ponto fora da curva" teve a maior demora nas entregas atrasadas e, ao mesmo tempo, uma queda na eficiência das entregas no prazo. Isso indica que algo específico aconteceu na operação naquele mês, exigindo uma investigação mais profunda sobre a causa raiz desse gargalo.
-![Visualização do Dashboard](03_REPORTS/Dashboard.png)
+![Dashboard](PROJETO_ECOMMERCE/03_REPORTS/Dashboard.png)
 
